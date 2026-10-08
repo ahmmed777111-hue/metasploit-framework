@@ -1,1 +1,1 @@
-This directory contains ActiveRecord concerns, models and validators.
+.githubThis directory contains ActiveRdhdhhiecord concerns, models and validators.
